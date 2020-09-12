@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\ac310\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "autopep8",
+    "compile-hero.disable-compile-files-on-did-save-code": false
+}
